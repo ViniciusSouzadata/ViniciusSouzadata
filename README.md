@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Vinícius Souza
----
+
 **`Data & AI Agent Engineer/Analyst`**
 
 Analista de Dados com sólida experiência em Business Intelligence, Marketing e Analytics de Vendas em setores de alta complexidade, como Óleo e Gás. Especialista na construção de agentes de IA autônomos e sistemas RAG escaláveis que conectam LLMs a dados de negócios para automação de fluxos de trabalho e entrega de insights de alta velocidade. Possuo um histórico comprovado de impacto estratégico, incluindo a redução de 70% na probabilidade de multas da ANP, otimização significativa de HH junto à Petrobras e aumento de 30% na taxa de sucesso em licitações de contratos de construção. Atualmente, foco em engenharia de agentes de IA para resolução de problemas complexos e maximização da lucratividade corporativa.
